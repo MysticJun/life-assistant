@@ -41,6 +41,13 @@ This is a new/empty project. No code, config, or tooling has been set up yet.
 - 角色：小秘書，代管約會/事件待辦
 - 待辦需記錄：日期、時間、事件名稱、地點地址
 
+## Git 自動備份系統
+
+- **GitHub**: https://github.com/MysticJun/life-assistant
+- **腳本**: `auto-backup.ps1` — 自動 add → commit → push
+- **排程**: Windows 工作排程器「生活小秘書自動備份」，每 6 小時執行一次
+- **Log**: `auto-backup.log`（已加入 .gitignore）
+
 ### 進行中待辦（3 筆）
 
 見上方待辦列表。
