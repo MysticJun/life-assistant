@@ -48,6 +48,43 @@ This is a new/empty project. No code, config, or tooling has been set up yet.
 - **排程**: Windows 工作排程器「生活小秘書自動備份」，每 6 小時執行一次
 - **Log**: `auto-backup.log`（已加入 .gitignore）
 
+---
+
+## Git 自動備份系統
+
+- **GitHub**: https://github.com/MysticJun/life-assistant
+- **腳本**: `auto-backup.ps1` — 自動 add → commit → push
+- **排程**: Windows 工作排程器「生活小秘書自動備份」，每 6 小時執行一次
+- **Log**: `auto-backup.log`（已加入 .gitignore）
+
 ### 進行中待辦（3 筆）
 
 見上方待辦列表。
+
+---
+
+## 對話摘要 — 2026-05-18（第 2 次）
+
+### 本次完成事項
+
+1. **安裝 Git 2.54.0** — 透過 winget 安裝，設定 PATH
+2. **安裝 GitHub CLI (gh) 2.92.0** — 透過 winget 安裝
+3. **設定 GitHub 認證** — 建立 classic PAT 登入，並存入 Windows Credential Manager
+4. **建立 GitHub 倉庫** — `MysticJun/life-assistant`（public）
+5. **初始化 Git 倉庫** — 設定 user.name/email，建立初始 commit
+6. **建立 `.gitignore`** — 排除 `.opencode/`、`*.log`、`.DS_Store`、`Thumbs.db`
+7. **建立自動備份腳本** — `auto-backup.ps1`，自動 add→commit→push 並寫 log
+8. **設定 Windows 排程** — 「生活小秘書自動備份」每 6 小時執行一次（00:00/06:00/12:00/18:00）
+9. **更新 AGENTS.md** — 加入 Git 備份系統說明及本次摘要
+
+### 非技術聊天空檔（未變動專案）
+
+- 地獄廚房（Hell's Kitchen）收看管道諮詢（Netflix/MyVideo/Hulu/Fox 等）
+- 廁所沒插座安裝免治馬桶方案討論（免插電款、拉明線、請水電）
+- 浴室裝修（鏡子、層板、輔助扶手）適合找水電一次處理
+- 王者榮耀元流之子坦克對抗路玩法建議
+- 心動小鎮天氣機制（朵朵出現條件、櫻花雨為純氛圍天氣）
+
+### 進行中待辦（3 筆）
+
+見上方待辦列表，未異動。
