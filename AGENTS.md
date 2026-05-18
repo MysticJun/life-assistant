@@ -51,15 +51,6 @@ This is a new/empty project. No code, config, or tooling has been set up yet.
 - **排程**: Windows 工作排程器「生活小秘書自動備份」，每 6 小時執行一次
 - **Log**: `auto-backup.log`（已加入 .gitignore）
 
----
-
-## Git 自動備份系統
-
-- **GitHub**: https://github.com/MysticJun/life-assistant
-- **腳本**: `auto-backup.ps1` — 自動 add → commit → push
-- **排程**: Windows 工作排程器「生活小秘書自動備份」，每 6 小時執行一次
-- **Log**: `auto-backup.log`（已加入 .gitignore）
-
 ### 進行中待辦（3 筆）
 
 見上方待辦列表。
@@ -91,3 +82,26 @@ This is a new/empty project. No code, config, or tooling has been set up yet.
 ### 進行中待辦（3 筆）
 
 見上方待辦列表，未異動。
+
+---
+
+## 對話摘要 — 2026-05-18（第 3 次）
+
+### 本次完成事項
+
+1. **新增 3 筆待辦** — 5/20 海底撈、5/21 好石跡火鍋集賢店、5/22 麗壐牙醫看牙
+2. **建立 PowerShell 開機提醒系統** — `C:\Users\user\AppData\Local\Temp\opencode\check-reminder.ps1`，每次開啟 PowerShell 時自動檢查 AGENTS.md 中 3 天內的待辦並顯示提醒
+3. **建立目錄連結** — `C:\Users\user\.life-assistant` → `生活小秘書`（解決中文路徑編碼問題）
+4. **設定 PowerShell Profile** — 載入時自動執行提醒腳本
+
+### 非技術聊天空檔
+
+- 地獄廚房串流平台比較（MyVideo 最推舊季）
+- 免治馬桶安裝方案（免插電款、拉明線、請水電）
+- 浴室裝修（鏡子、層板、扶手）建議找水電一次處理
+- 王者榮耀元流之子坦克對抗路玩法
+- 心動小鎮天氣系統（朵朵條件、櫻花雨為純氛圍）
+
+### 進行中待辦（6 筆）
+
+見上方待辦列表。
