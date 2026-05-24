@@ -1,4 +1,4 @@
-# AGENTS.md
+﻿# AGENTS.md
 
 This is a new/empty project. No code, config, or tooling has been set up yet.
 
@@ -10,13 +10,9 @@ This is a new/empty project. No code, config, or tooling has been set up yet.
 
 用 `todowrite` 工具管理待辦。每次「結案」時會把未完成的待辦摘要寫入此檔。下次對話說「呆呆幫我」或「小幫手」即可恢復待辦上下文。
 
-### 待辦（最後更新：2026-05-18）
+### 待辦（最後更新：2026-05-24）
 
-- 5/20 (三) 18:30 — 帶老婆和女兒吃海底撈
-- 5/21 (四) 18:30 — 帶家人和姐姐一家去吃好石跡火鍋 @ 好石跡火鍋集賢店
-- 5/22 (五) 14:30 — 剪頭髮 @ 小豬理髮
-- 5/22 (五) 16:15 — 看牙醫 @ 麗壐牙醫
-- 5/23 (六) 18:00 — 格致中學303同學會 @ 田園海鮮餐廳（臺北市中山區八德路二段174巷5號）
+
 - 5/24 (日) 13:10 — 家庭聚餐 @ 品冠客家小館（台北市松山區南京東路五段23巷9弄4號）
 - 6/6 (六) 17:00 — 研究所大聚餐 @ 星享道 2F 愛鑽廳（臺中市西屯區福星北路18號）
 
@@ -106,3 +102,4 @@ This is a new/empty project. No code, config, or tooling has been set up yet.
 ### 進行中待辦（6 筆）
 
 見上方待辦列表。
+
